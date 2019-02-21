@@ -9,5 +9,5 @@ The goal of this project was to create beautiful fractals with the help of Minil
 
 # Gifs
 
-![](./preview/gif1.jpg)
-![](./preview/gif2.jpg)
+![](./preview/gif1.gif)
+![](./preview/gif2.gif)
